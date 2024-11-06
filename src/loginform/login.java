@@ -157,7 +157,6 @@ public class login extends javax.swing.JFrame {
         jCheckBox1.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
         jCheckBox1.setForeground(new java.awt.Color(221, 199, 255));
         jCheckBox1.setText("Remember Password");
-        jCheckBox1.setOpaque(false);
         jPanel2.add(jCheckBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(34, 261, -1, -1));
 
         jLabel11.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
@@ -167,7 +166,6 @@ public class login extends javax.swing.JFrame {
         jLabel11.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jPanel2.add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(254, 261, 121, 27));
 
-        jButton1.setBackground(new java.awt.Color(255, 255, 255));
         jButton1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jButton1.setForeground(new java.awt.Color(132, 56, 220));
         jButton1.setText("LOGIN");
